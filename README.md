@@ -1,4 +1,4 @@
-# EasyBank
+# Easy_Bank
 
 EasyBank is an accessibility-focused simulated banking web application designed for rural users and people with low digital literacy.
 
