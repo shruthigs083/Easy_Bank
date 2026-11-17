@@ -22,6 +22,7 @@ This is an **educational banking application**. It does not connect to a real ba
 - JWT authentication
 - Password hashing with bcrypt
 - Responsive mobile-first UI
+  
 ![Uploading EasyBank Application Architecture Flow.png…]()
 
 ## Tech stack
