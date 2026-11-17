@@ -5,6 +5,7 @@ EasyBank is an accessibility-focused simulated banking web application designed 
 ## Important
 This is an **educational banking application**. It does not connect to a real bank and does not transfer real money. Do not enter real banking passwords, card numbers, OTPs, or other sensitive financial credentials.
 
+
 ## Features
 - Simple registration and login
 - Large, accessible interface
@@ -21,6 +22,7 @@ This is an **educational banking application**. It does not connect to a real ba
 - JWT authentication
 - Password hashing with bcrypt
 - Responsive mobile-first UI
+![Uploading EasyBank Application Architecture Flow.png…]()
 
 ## Tech stack
 Frontend: React + Vite + React Router + Axios + CSS
