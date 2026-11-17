@@ -23,8 +23,7 @@ This is an **educational banking application**. It does not connect to a real ba
 - Password hashing with bcrypt
 - Responsive mobile-first UI
   
-![Uploading EasyBank Application Architecture Flow.png…]()
-
+![Easy Bank Architecture](assets/bank.png)
 ## Tech stack
 Frontend: React + Vite + React Router + Axios + CSS
 Backend: Node.js + Express + MongoDB + Mongoose + JWT + bcryptjs
